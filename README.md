@@ -1,4 +1,0 @@
-PLTemperature
-=============
-
-Conversor temperaturas
